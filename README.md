@@ -40,7 +40,7 @@ Nhánh `main`:
 ```
 Nhánh `main` là nơi lưu trữ tài liệu học tập. Học sinh không được cấp quyền chỉnh sửa/cập nhật tài liệu lên nhánh `main`.
 
-**2. Các thao tác mỗi ngày**
+**2. Các thao tác thường xuyên**
 - B1: Mở code folder và cập nhật tài liệu mới
     1. Mở Git Bash trong VS code
     2. Chuyển về nhánh main:
