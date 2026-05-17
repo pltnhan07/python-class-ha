@@ -48,9 +48,7 @@ Nhánh `main` là nơi lưu trữ tài liệu học tập. Học sinh không đ�
         ``` git checkout main```
     3. Kéo tài liệu mới nhất từ server về máy:
 
-        ```git pull origin main``` (nếu là lần đầu tiên thực hiện lệnh pull)
-
-        hoặc ```git pull``` (cho các lần pull tiếp theo)
+        ```git pull origin main```
 - B2: Tạo nhánh (branch) riêng để làm bài
 
     ```git checkout -b solution```
